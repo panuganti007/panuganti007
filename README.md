@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @panuganti007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- https://www.linkedin.com/in/ravikumar-panuganti-4086328a/
+ 
+- 📫 How to reach me 7325994454
 
-<!---
-panuganti007/panuganti007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
